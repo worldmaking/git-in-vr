@@ -1,0 +1,30 @@
+{
+	"project_name" : "project_1",
+	"objects" : 	{
+		"vrbox_0" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_0",
+			"var_name" : "vrbox_0",
+			"vr_position" : [ 0.5632, 0.9814, 0.1491 ],
+			"patcher_position" : [ 20, 0 ]
+		}
+,
+		"vrbox_1" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_1",
+			"var_name" : "vrbox_1",
+			"vr_position" : [ 0.3186, 0.7094, 0.6692 ],
+			"patcher_position" : [ 20, 25 ]
+		}
+,
+		"vrbox_2" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_2",
+			"var_name" : "vrbox_2",
+			"vr_position" : [ 0.2382, 0.35, 0.7052 ],
+			"patcher_position" : [ 20, 50 ]
+		}
+
+	}
+
+}
