@@ -5,7 +5,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_0",
 			"var_name" : "vrbox_0",
-			"vr_position" : [ 0.728, 0.6825, 0.8193 ],
+			"vr_position" : [ 0.2515, 0.1736, 0.3337 ],
 			"patcher_position" : [ 20, 0 ]
 		}
 ,
@@ -13,7 +13,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_1",
 			"var_name" : "vrbox_1",
-			"vr_position" : [ 0.2402, 0.1057, 0.6751 ],
+			"vr_position" : [ 0.3742, 0.9212, 0.1536 ],
 			"patcher_position" : [ 20, 25 ]
 		}
 ,
@@ -21,7 +21,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_2",
 			"var_name" : "vrbox_2",
-			"vr_position" : [ 0.1981, 0.9955, 0.488 ],
+			"vr_position" : [ 0.6859, 0.8682, 0.5526 ],
 			"patcher_position" : [ 20, 50 ]
 		}
 ,
@@ -29,7 +29,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_3",
 			"var_name" : "vrbox_3",
-			"vr_position" : [ 0.6419, 0.0955, 0.6286 ],
+			"vr_position" : [ 0.4714, 0.6676, 0.4508 ],
 			"patcher_position" : [ 20, 75 ]
 		}
 ,
@@ -37,16 +37,8 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_4",
 			"var_name" : "vrbox_4",
-			"vr_position" : [ 0.0577, 0.8773, 0.6937 ],
+			"vr_position" : [ 0.0697, 0.4346, 0.4645 ],
 			"patcher_position" : [ 20, 100 ]
-		}
-,
-		"vrbox_5" : 		{
-			"max_class" : "vr-box",
-			"text" : "vrbox_5",
-			"var_name" : "vrbox_5",
-			"vr_position" : [ 0.868, 0.4088, 0.3913 ],
-			"patcher_position" : [ 20, 125 ]
 		}
 
 	}

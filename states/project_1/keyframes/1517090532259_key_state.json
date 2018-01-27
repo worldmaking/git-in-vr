@@ -1,0 +1,22 @@
+{
+	"project_name" : "project_1",
+	"objects" : 	{
+		"vrbox_0" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_0",
+			"var_name" : "vrbox_0",
+			"vr_position" : [ 0.728, 0.6825, 0.8193 ],
+			"patcher_position" : [ 20, 0 ]
+		}
+,
+		"vrbox_1" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_1",
+			"var_name" : "vrbox_1",
+			"vr_position" : [ 0.2402, 0.1057, 0.6751 ],
+			"patcher_position" : [ 20, 25 ]
+		}
+
+	}
+
+}
