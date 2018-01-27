@@ -7,7 +7,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_0",
 			"var_name" : "vrbox_0",
-			"vr_position" : [ 0.88, 0.2185, 0.9557 ],
+			"vr_position" : [ 0.1947, 0.8359, 0.1401 ],
 			"patcher_position" : [ 20, 0 ]
 		}
 ,
@@ -15,7 +15,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_1",
 			"var_name" : "vrbox_1",
-			"vr_position" : [ 0.1834, 0.0568, 0.008 ],
+			"vr_position" : [ 0.0656, 0.6778, 0.2986 ],
 			"patcher_position" : [ 20, 25 ]
 		}
 ,
@@ -23,7 +23,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_2",
 			"var_name" : "vrbox_2",
-			"vr_position" : [ 0.686, 0.7081, 0.5552 ],
+			"vr_position" : [ 0.907, 0.2529, 0.1466 ],
 			"patcher_position" : [ 20, 50 ]
 		}
 ,
@@ -31,7 +31,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_3",
 			"var_name" : "vrbox_3",
-			"vr_position" : [ 0.7839, 0.4105, 0.4512 ],
+			"vr_position" : [ 0.1046, 0.6071, 0.3733 ],
 			"patcher_position" : [ 20, 75 ]
 		}
 ,
@@ -39,7 +39,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_4",
 			"var_name" : "vrbox_4",
-			"vr_position" : [ 0.8252, 0.7929, 0.2185 ],
+			"vr_position" : [ 0.0776, 0.6829, 0.6453 ],
 			"patcher_position" : [ 20, 100 ]
 		}
 ,
@@ -47,7 +47,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_5",
 			"var_name" : "vrbox_5",
-			"vr_position" : [ 0.5099, 0.6021, 0.5942 ],
+			"vr_position" : [ 0.244, 0.6694, 0.7809 ],
 			"patcher_position" : [ 20, 125 ]
 		}
 ,
@@ -55,24 +55,8 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_6",
 			"var_name" : "vrbox_6",
-			"vr_position" : [ 0.1587, 0.9098, 0.5047 ],
+			"vr_position" : [ 0.8696, 0.9809, 0.8736 ],
 			"patcher_position" : [ 20, 150 ]
-		}
-,
-		"vrbox_7" : 		{
-			"max_class" : "vr-box",
-			"text" : "vrbox_7",
-			"var_name" : "vrbox_7",
-			"vr_position" : [ 0.8369, 0.258, 0.9551 ],
-			"patcher_position" : [ 20, 175 ]
-		}
-,
-		"vrbox_8" : 		{
-			"max_class" : "vr-box",
-			"text" : "vrbox_8",
-			"var_name" : "vrbox_8",
-			"vr_position" : [ 0.9897, 0.4111, 0.76 ],
-			"patcher_position" : [ 20, 200 ]
 		}
 
 	}
