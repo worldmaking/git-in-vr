@@ -6,7 +6,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_0",
 			"var_name" : "vrbox_0",
-			"vr_position" : [ 0.2623, 0.814, 0.7007 ],
+			"vr_position" : [ 0.2394, 0.9372, 0.9546 ],
 			"patcher_position" : [ 20, 0 ]
 		}
 ,
@@ -14,7 +14,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_1",
 			"var_name" : "vrbox_1",
-			"vr_position" : [ 0.863, 0.0529, 0.3279 ],
+			"vr_position" : [ 0.2035, 0.332, 0.1154 ],
 			"patcher_position" : [ 20, 25 ]
 		}
 ,
@@ -22,7 +22,7 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_2",
 			"var_name" : "vrbox_2",
-			"vr_position" : [ 0.991, 0.3677, 0.2699 ],
+			"vr_position" : [ 0.4285, 0.7563, 0.7847 ],
 			"patcher_position" : [ 20, 50 ]
 		}
 ,
@@ -30,8 +30,16 @@
 			"max_class" : "vr-box",
 			"text" : "vrbox_3",
 			"var_name" : "vrbox_3",
-			"vr_position" : [ 0.8192, 0.091, 0.6693 ],
+			"vr_position" : [ 0.4493, 0.0006, 0.8528 ],
 			"patcher_position" : [ 20, 75 ]
+		}
+,
+		"vrbox_4" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_4",
+			"var_name" : "vrbox_4",
+			"vr_position" : [ 0.0764, 0.5213, 0.4974 ],
+			"patcher_position" : [ 20, 100 ]
 		}
 
 	}
