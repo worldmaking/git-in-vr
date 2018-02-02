@@ -42,14 +42,6 @@
 			"vr_position" : [ 0.4477, 0.3746, 0.5668 ],
 			"patcher_position" : [ 20, 100 ]
 		}
-,
-		"vrbox_5" : 		{
-			"max_class" : "vr-box",
-			"text" : "vrbox_5",
-			"var_name" : "vrbox_5",
-			"vr_position" : [ 0.8549, 0.9686, 0.4356 ],
-			"patcher_position" : [ 20, 125 ]
-		}
 
 	}
 
