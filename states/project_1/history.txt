@@ -1,3 +1,6 @@
+8935c5c8a2af64681fb8ea707e854421e05862fe atomic commit 1517716268187
+8729ab85da02c103ca1ac3990d876d9ad1e2c5b1 updated the gitignore to ignore the .cg folder created by crystalgazer
+64c0c074280ae8ed3b85d7da71a819ac1445d2a9 added npm init and npm crystalgazer
 bfd86e8f8f9f13b7745cd9d04e64aca83e7f0409 atomic commit 1517599408473
 6ddbffea2c13c1bc4363493d6fb0465fe3f716b9 atomic commit 1517599406474
 84ab64a4e43d2201f302fa1f094f251d3b788ce9 atomic commit 1517599404473
