@@ -1,0 +1,22 @@
+{
+  "name": "git-in-vr",
+  "version": "0.0.1",
+  "description": "Repo for storing vr-in-vr state data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worldmaking/git-in-vr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldmaking/git-in-vr/issues"
+  },
+  "homepage": "https://github.com/worldmaking/git-in-vr#readme",
+  "dependencies": {
+    "crystalgazer": "^0.9.0"
+  }
+}
