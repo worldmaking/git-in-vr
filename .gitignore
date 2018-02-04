@@ -1,6 +1,9 @@
-*/version_frames/*
-*/version_frames
-*/.DS_Store
-archived/*
+#likely this file will be removed in the future, but for now just ignore it
 */commits.json
+
+#pesky osx .DS_Stores
+*/.DS_Store
 .DS_Store
+
+#this is a folder used by the repo miner crystalgazer, which requests that it be gitignored
+.cg
