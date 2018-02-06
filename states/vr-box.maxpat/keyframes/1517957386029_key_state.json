@@ -1,7 +1,7 @@
 {
  "project_name": "vr-box.maxpat",
  "commit_hash": null,
- "UTC": 1517957398028,
+ "UTC": 1517957386029,
  "objects": [
   {
    "vrbox_15": {
@@ -11,9 +11,9 @@
     "numinlets": 2,
     "numoutlets": 4,
     "vr_position": [
-     0.49,
-     0.57,
-     0.8
+     0.84,
+     0.52,
+     0.56
     ],
     "patcher_position": [
      731,
@@ -31,9 +31,9 @@
     "numinlets": 1,
     "numoutlets": 0,
     "vr_position": [
-     0.63,
-     0.81,
-     0.69
+     0.36,
+     0.16,
+     0.84
     ],
     "patcher_position": [
      509,
@@ -51,9 +51,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.95,
-     0.81,
-     0.12
+     0.57,
+     0.9,
+     0.32
     ],
     "patcher_position": [
      603,
@@ -71,9 +71,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.81,
-     0.3,
-     0.17
+     0.8,
+     0.48,
+     0.54
     ],
     "patcher_position": [
      566,
@@ -91,9 +91,9 @@
     "numinlets": 1,
     "numoutlets": 1,
     "vr_position": [
-     0.7,
-     0.88,
-     0.19
+     0.45,
+     0.9,
+     0.89
     ],
     "patcher_position": [
      149,
@@ -111,9 +111,9 @@
     "numinlets": 1,
     "numoutlets": 1,
     "vr_position": [
-     0.32,
-     0.74,
-     0.7
+     0.29,
+     0.89,
+     0.33
     ],
     "patcher_position": [
      149,
@@ -131,9 +131,9 @@
     "numinlets": 2,
     "numoutlets": 2,
     "vr_position": [
-     0.29,
-     0.87,
-     0.53
+     0.93,
+     0.94,
+     0.51
     ],
     "patcher_position": [
      149,
@@ -151,9 +151,9 @@
     "numinlets": 2,
     "numoutlets": 2,
     "vr_position": [
-     0.62,
-     0.29,
-     0.99
+     0.55,
+     0.76,
+     0.42
     ],
     "patcher_position": [
      545.5,
@@ -171,9 +171,9 @@
     "numinlets": 1,
     "numoutlets": 1,
     "vr_position": [
-     0.75,
-     0.87,
-     0.92
+     0.34,
+     0.64,
+     0.4
     ],
     "patcher_position": [
      545.5,
@@ -190,9 +190,9 @@
     "numinlets": 1,
     "numoutlets": 1,
     "vr_position": [
-     0.17,
-     0.65,
-     0.77
+     0.75,
+     0.36,
+     0.19
     ],
     "patcher_position": [
      228,
@@ -210,9 +210,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.55,
-     0.91,
-     0.64
+     0.96,
+     0.17,
+     0.51
     ],
     "patcher_position": [
      20,
@@ -230,9 +230,9 @@
     "numinlets": 1,
     "numoutlets": 0,
     "vr_position": [
-     0.45,
-     0.97,
-     0.29
+     0.43,
+     0.16,
+     0.48
     ],
     "patcher_position": [
      545.5,
@@ -250,9 +250,9 @@
     "numinlets": 0,
     "numoutlets": 1,
     "vr_position": [
-     0.57,
-     0.22,
-     0.86
+     0.78,
+     0.35,
+     0.71
     ],
     "patcher_position": [
      577,
@@ -269,9 +269,9 @@
     "numinlets": 1,
     "numoutlets": 0,
     "vr_position": [
-     0.68,
-     0.96,
-     0.85
+     0.44,
+     0.22,
+     0.56
     ],
     "patcher_position": [
      510.5,
@@ -288,9 +288,9 @@
     "numinlets": 1,
     "numoutlets": 0,
     "vr_position": [
-     0.8,
-     0.32,
-     0.11
+     0.7,
+     0.66,
+     0.79
     ],
     "patcher_position": [
      419,
@@ -308,9 +308,9 @@
     "numinlets": 2,
     "numoutlets": 2,
     "vr_position": [
-     0.56,
-     0.55,
-     0.24
+     0.3,
+     0.35,
+     0.16
     ],
     "patcher_position": [
      483,
@@ -328,9 +328,9 @@
     "numinlets": 2,
     "numoutlets": 1,
     "vr_position": [
-     0.26,
-     0.25,
-     0.1
+     0.86,
+     0.18,
+     0.48
     ],
     "patcher_position": [
      577,
@@ -348,9 +348,9 @@
     "numinlets": 2,
     "numoutlets": 2,
     "vr_position": [
-     0.51,
-     0.51,
-     0.46
+     0.93,
+     0.89,
+     0.42
     ],
     "patcher_position": [
      416,
@@ -368,9 +368,9 @@
     "numinlets": 5,
     "numoutlets": 5,
     "vr_position": [
-     0.3,
+     0.72,
      0.52,
-     0.31
+     0.44
     ],
     "patcher_position": [
      20,
@@ -388,9 +388,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.68,
-     0.58,
-     0.25
+     0.28,
+     0.33,
+     0.15
     ],
     "patcher_position": [
      144,
@@ -408,9 +408,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.58,
-     0.85,
-     0.29
+     0.39,
+     0.47,
+     0.44
     ],
     "patcher_position": [
      109,
@@ -428,9 +428,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.71,
-     0.31,
-     0.21
+     0.8,
+     0.83,
+     0.67
     ],
     "patcher_position": [
      144,
@@ -448,9 +448,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.41,
-     0.78,
-     0.65
+     0.84,
+     0.8,
+     0.9
     ],
     "patcher_position": [
      109,
@@ -468,9 +468,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.16,
-     0.73,
-     0.76
+     0.68,
+     0.63,
+     0.88
     ],
     "patcher_position": [
      144,
@@ -488,9 +488,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.56,
-     0.28,
-     0.89
+     0.89,
+     0.96,
+     0.77
     ],
     "patcher_position": [
      109,
@@ -508,9 +508,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.77,
-     0.68,
-     0.85
+     0.71,
+     0.28,
+     0.45
     ],
     "patcher_position": [
      109,
@@ -528,9 +528,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.82,
-     0.84,
-     0.79
+     0.11,
+     0.9,
+     0.21
     ],
     "patcher_position": [
      144,
@@ -548,9 +548,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.46,
-     0.86,
-     0.24
+     0.53,
+     0.42,
+     0.84
     ],
     "patcher_position": [
      20,
@@ -568,9 +568,9 @@
     "numinlets": 1,
     "numoutlets": 2,
     "vr_position": [
-     0.26,
-     0.26,
-     0.79
+     0.43,
+     0.69,
+     0.95
     ],
     "patcher_position": [
      228,
