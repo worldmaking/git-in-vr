@@ -1,7 +1,7 @@
 {
  "project_name": "maxpat",
  "commit_hash": null,
- "UTC": 1517956941914,
+ "UTC": 1517956940914,
  "objects": [
   {
    "vrbox_8": {
@@ -11,9 +11,9 @@
     "numinlets": 1,
     "numoutlets": 1,
     "vr_position": [
-     0.22,
-     0.15,
-     0.73
+     0.62,
+     0.3,
+     0.15
     ],
     "patcher_position": [
      43,
@@ -31,9 +31,9 @@
     "numinlets": 1,
     "numoutlets": 0,
     "vr_position": [
-     0.71,
-     0.31,
-     0.98
+     0.73,
+     0.87,
+     0.79
     ],
     "patcher_position": [
      43,
@@ -50,9 +50,9 @@
     "numinlets": 1,
     "numoutlets": 1,
     "vr_position": [
-     0.17,
-     0.51,
-     0.13
+     0.77,
+     0.12,
+     0.56
     ],
     "patcher_position": [
      43,
@@ -70,9 +70,9 @@
     "numinlets": 5,
     "numoutlets": 4,
     "vr_position": [
-     0.67,
-     0.24,
-     0.33
+     0.12,
+     0.53,
+     0.36
     ],
     "patcher_position": [
      43,
