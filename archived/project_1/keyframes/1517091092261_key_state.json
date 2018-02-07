@@ -1,0 +1,62 @@
+{
+	"project_name" : "project_1",
+	"objects" : 	{
+		"vrbox_0" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_0",
+			"var_name" : "vrbox_0",
+			"vr_position" : [ 0.7143, 0.9776, 0.3409 ],
+			"patcher_position" : [ 20, 0 ]
+		}
+,
+		"vrbox_1" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_1",
+			"var_name" : "vrbox_1",
+			"vr_position" : [ 0.0145, 0.4854, 0.8413 ],
+			"patcher_position" : [ 20, 25 ]
+		}
+,
+		"vrbox_2" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_2",
+			"var_name" : "vrbox_2",
+			"vr_position" : [ 0.048, 0.7993, 0.7453 ],
+			"patcher_position" : [ 20, 50 ]
+		}
+,
+		"vrbox_3" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_3",
+			"var_name" : "vrbox_3",
+			"vr_position" : [ 0.2548, 0.0102, 0.6625 ],
+			"patcher_position" : [ 20, 75 ]
+		}
+,
+		"vrbox_4" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_4",
+			"var_name" : "vrbox_4",
+			"vr_position" : [ 0.0885, 0.5982, 0.6213 ],
+			"patcher_position" : [ 20, 100 ]
+		}
+,
+		"vrbox_5" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_5",
+			"var_name" : "vrbox_5",
+			"vr_position" : [ 0.5197, 0.2716, 0.9282 ],
+			"patcher_position" : [ 20, 125 ]
+		}
+,
+		"vrbox_6" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_6",
+			"var_name" : "vrbox_6",
+			"vr_position" : [ 0.4134, 0.325, 0.648 ],
+			"patcher_position" : [ 20, 150 ]
+		}
+
+	}
+
+}

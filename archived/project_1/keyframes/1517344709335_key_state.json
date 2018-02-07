@@ -1,0 +1,48 @@
+{
+	"project_name" : "project_1",
+	"commit_hash" : "",
+	"UTC" : "",
+	"objects" : 	{
+		"vrbox_10" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_10",
+			"var_name" : "vrbox_10",
+			"vr_position" : [ 0.8505, 0.662, 0.4932 ],
+			"patcher_position" : [ 20, 250 ]
+		}
+,
+		"vrbox_0" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_0",
+			"var_name" : "vrbox_0",
+			"vr_position" : [ 0.1729, 0.0301, 0.8026 ],
+			"patcher_position" : [ 20, 0 ]
+		}
+,
+		"vrbox_1" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_1",
+			"var_name" : "vrbox_1",
+			"vr_position" : [ 0.3107, 0.6097, 0.2724 ],
+			"patcher_position" : [ 20, 25 ]
+		}
+,
+		"vrbox_2" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_2",
+			"var_name" : "vrbox_2",
+			"vr_position" : [ 0.1348, 0.7957, 0.1866 ],
+			"patcher_position" : [ 20, 50 ]
+		}
+,
+		"vrbox_3" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_3",
+			"var_name" : "vrbox_3",
+			"vr_position" : [ 0.9016, 0.0953, 0.3006 ],
+			"patcher_position" : [ 20, 75 ]
+		}
+
+	}
+
+}

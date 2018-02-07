@@ -1,0 +1,96 @@
+{
+	"project_name" : "project_1",
+	"commit_hash" : "",
+	"UTC" : "",
+	"objects" : 	{
+		"vrbox_10" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_10",
+			"var_name" : "vrbox_10",
+			"vr_position" : [ 0.2579, 0.9261, 0.7818 ],
+			"patcher_position" : [ 20, 250 ]
+		}
+,
+		"vrbox_0" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_0",
+			"var_name" : "vrbox_0",
+			"vr_position" : [ 0.0437, 0.2507, 0.1203 ],
+			"patcher_position" : [ 20, 0 ]
+		}
+,
+		"vrbox_1" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_1",
+			"var_name" : "vrbox_1",
+			"vr_position" : [ 0.9694, 0.5462, 0.209 ],
+			"patcher_position" : [ 20, 25 ]
+		}
+,
+		"vrbox_2" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_2",
+			"var_name" : "vrbox_2",
+			"vr_position" : [ 0.2103, 0.8026, 0.8753 ],
+			"patcher_position" : [ 20, 50 ]
+		}
+,
+		"vrbox_3" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_3",
+			"var_name" : "vrbox_3",
+			"vr_position" : [ 0.0428, 0.9859, 0.6619 ],
+			"patcher_position" : [ 20, 75 ]
+		}
+,
+		"vrbox_4" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_4",
+			"var_name" : "vrbox_4",
+			"vr_position" : [ 0.3153, 0.3774, 0.6645 ],
+			"patcher_position" : [ 20, 100 ]
+		}
+,
+		"vrbox_5" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_5",
+			"var_name" : "vrbox_5",
+			"vr_position" : [ 0.2203, 0.1234, 0.3703 ],
+			"patcher_position" : [ 20, 125 ]
+		}
+,
+		"vrbox_6" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_6",
+			"var_name" : "vrbox_6",
+			"vr_position" : [ 0.9006, 0.0466, 0.7567 ],
+			"patcher_position" : [ 20, 150 ]
+		}
+,
+		"vrbox_7" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_7",
+			"var_name" : "vrbox_7",
+			"vr_position" : [ 0.4117, 0.759, 0.9856 ],
+			"patcher_position" : [ 20, 175 ]
+		}
+,
+		"vrbox_8" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_8",
+			"var_name" : "vrbox_8",
+			"vr_position" : [ 0.9129, 0.0225, 0.414 ],
+			"patcher_position" : [ 20, 200 ]
+		}
+,
+		"vrbox_9" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_9",
+			"var_name" : "vrbox_9",
+			"vr_position" : [ 0.5532, 0.0914, 0.9627 ],
+			"patcher_position" : [ 20, 225 ]
+		}
+
+	}
+
+}

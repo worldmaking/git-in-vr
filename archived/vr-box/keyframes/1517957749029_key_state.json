@@ -1,0 +1,584 @@
+{
+ "project_name": "vr-box.maxpat",
+ "commit_hash": null,
+ "UTC": 1517957749029,
+ "objects": [
+  {
+   "vrbox_15": {
+    "max_class": "vr-box",
+    "text": "dict #4",
+    "var_name": "vrbox_15",
+    "numinlets": 2,
+    "numoutlets": 4,
+    "vr_position": [
+     0.43,
+     0.4,
+     0.55
+    ],
+    "patcher_position": [
+     731,
+     167,
+     75,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_10": {
+    "max_class": "vr-box",
+    "text": "print body",
+    "var_name": "vrbox_10",
+    "numinlets": 1,
+    "numoutlets": 0,
+    "vr_position": [
+     0.62,
+     0.95,
+     0.48
+    ],
+    "patcher_position": [
+     509,
+     312,
+     63,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_3": {
+    "max_class": "vr-box",
+    "text": "jit.gl.gridshape editor-world @shape cube @material inlet-material",
+    "var_name": "vrbox_3",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.36,
+     0.28,
+     0.73
+    ],
+    "patcher_position": [
+     603,
+     612,
+     362,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_5": {
+    "max_class": "vr-box",
+    "text": "jit.anim.node editor-world @position 4 1 0 @scale 0.4 0.2 0.4",
+    "var_name": "vrbox_5",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.27,
+     0.92,
+     0.21
+    ],
+    "patcher_position": [
+     566,
+     579,
+     335,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_31": {
+    "max_class": "vr-box",
+    "text": "prepend name",
+    "var_name": "vrbox_31",
+    "numinlets": 1,
+    "numoutlets": 1,
+    "vr_position": [
+     0.11,
+     0.97,
+     0.27
+    ],
+    "patcher_position": [
+     149,
+     214,
+     88,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_29": {
+    "max_class": "vr-box",
+    "text": "sprintf %s_body",
+    "var_name": "vrbox_29",
+    "numinlets": 1,
+    "numoutlets": 1,
+    "vr_position": [
+     0.83,
+     0.48,
+     0.63
+    ],
+    "patcher_position": [
+     149,
+     184,
+     96,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_28": {
+    "max_class": "vr-box",
+    "text": "route name",
+    "var_name": "vrbox_28",
+    "numinlets": 2,
+    "numoutlets": 2,
+    "vr_position": [
+     0.81,
+     0.99,
+     0.96
+    ],
+    "patcher_position": [
+     149,
+     154,
+     71,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_30": {
+    "max_class": "vr-box",
+    "text": "substitute name set",
+    "var_name": "vrbox_30",
+    "numinlets": 2,
+    "numoutlets": 2,
+    "vr_position": [
+     0.43,
+     0.45,
+     0.65
+    ],
+    "patcher_position": [
+     545.5,
+     89,
+     115,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_27": {
+    "max_class": "vr-box",
+    "text": "receive",
+    "var_name": "vrbox_27",
+    "numinlets": 1,
+    "numoutlets": 1,
+    "vr_position": [
+     0.35,
+     0.28,
+     0.21
+    ],
+    "patcher_position": [
+     545.5,
+     123,
+     49,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_21": {
+    "max_class": "vr-box",
+    "var_name": "vrbox_21",
+    "numinlets": 1,
+    "numoutlets": 1,
+    "vr_position": [
+     0.73,
+     0.96,
+     0.69
+    ],
+    "patcher_position": [
+     228,
+     42,
+     24,
+     24
+    ]
+   }
+  },
+  {
+   "vrbox_537": {
+    "max_class": "vr-box",
+    "text": "jit.phys.body vr-phys @shape cube @scale 1 0.2 0.2 @kinematic 1 @mass 0 @send_scale 0",
+    "var_name": "vrbox_537",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.31,
+     0.79,
+     0.21
+    ],
+    "patcher_position": [
+     20,
+     276,
+     508,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_16": {
+    "max_class": "vr-box",
+    "text": "print to-vr-box",
+    "var_name": "vrbox_16",
+    "numinlets": 1,
+    "numoutlets": 0,
+    "vr_position": [
+     0.44,
+     0.78,
+     0.46
+    ],
+    "patcher_position": [
+     545.5,
+     154,
+     85,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_26": {
+    "max_class": "vr-box",
+    "text": "r update",
+    "var_name": "vrbox_26",
+    "numinlets": 0,
+    "numoutlets": 1,
+    "vr_position": [
+     0.17,
+     0.34,
+     0.15
+    ],
+    "patcher_position": [
+     577,
+     390,
+     55,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_25": {
+    "max_class": "vr-box",
+    "var_name": "vrbox_25",
+    "numinlets": 1,
+    "numoutlets": 0,
+    "vr_position": [
+     0.38,
+     0.42,
+     0.1
+    ],
+    "patcher_position": [
+     510.5,
+     797,
+     30,
+     30
+    ]
+   }
+  },
+  {
+   "vrbox_24": {
+    "max_class": "vr-box",
+    "var_name": "vrbox_24",
+    "numinlets": 1,
+    "numoutlets": 0,
+    "vr_position": [
+     0.83,
+     0.83,
+     0.91
+    ],
+    "patcher_position": [
+     419,
+     805,
+     30,
+     30
+    ]
+   }
+  },
+  {
+   "vrbox_23": {
+    "max_class": "vr-box",
+    "text": "route localtoworld",
+    "var_name": "vrbox_23",
+    "numinlets": 2,
+    "numoutlets": 2,
+    "vr_position": [
+     0.17,
+     0.34,
+     0.97
+    ],
+    "patcher_position": [
+     483,
+     716,
+     105,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_22": {
+    "max_class": "vr-box",
+    "text": "localtoworld 0. 0. 0.",
+    "var_name": "vrbox_22",
+    "numinlets": 2,
+    "numoutlets": 1,
+    "vr_position": [
+     0.2,
+     0.34,
+     0.68
+    ],
+    "patcher_position": [
+     577,
+     428,
+     114,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_20": {
+    "max_class": "vr-box",
+    "text": "route localtoworld",
+    "var_name": "vrbox_20",
+    "numinlets": 2,
+    "numoutlets": 2,
+    "vr_position": [
+     0.4,
+     0.2,
+     0.42
+    ],
+    "patcher_position": [
+     416,
+     762,
+     105,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_9": {
+    "max_class": "vr-box",
+    "text": "routepass position quat text name",
+    "var_name": "vrbox_9",
+    "numinlets": 5,
+    "numoutlets": 5,
+    "vr_position": [
+     0.46,
+     0.9,
+     0.39
+    ],
+    "patcher_position": [
+     20,
+     114,
+     191,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_13": {
+    "max_class": "vr-box",
+    "text": "jit.gl.gridshape editor-world @shape cube @material inlet-material",
+    "var_name": "vrbox_13",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.56,
+     0.29,
+     0.51
+    ],
+    "patcher_position": [
+     144,
+     683,
+     362,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_14": {
+    "max_class": "vr-box",
+    "text": "jit.anim.node editor-world @position 0 -1 0 @scale 0.4 0.2 0.4",
+    "var_name": "vrbox_14",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.39,
+     0.67,
+     0.38
+    ],
+    "patcher_position": [
+     109,
+     650,
+     339,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_11": {
+    "max_class": "vr-box",
+    "text": "jit.gl.gridshape editor-world @shape cube @material inlet-material",
+    "var_name": "vrbox_11",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.94,
+     0.97,
+     0.4
+    ],
+    "patcher_position": [
+     144,
+     612,
+     362,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_12": {
+    "max_class": "vr-box",
+    "text": "jit.anim.node editor-world @position 0 1 0 @scale 0.4 0.2 0.4",
+    "var_name": "vrbox_12",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.77,
+     0.41,
+     0.2
+    ],
+    "patcher_position": [
+     109,
+     579,
+     335,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_8": {
+    "max_class": "vr-box",
+    "text": "jit.gl.gridshape editor-world @shape cube @material box-material",
+    "var_name": "vrbox_8",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.39,
+     0.46,
+     0.94
+    ],
+    "patcher_position": [
+     144,
+     540,
+     359,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_7": {
+    "max_class": "vr-box",
+    "text": "jit.anim.node editor-world @position 4 0 0 @scale 5 1 0.25",
+    "var_name": "vrbox_7",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.69,
+     0.58,
+     0.36
+    ],
+    "patcher_position": [
+     109,
+     507,
+     322,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_6": {
+    "max_class": "vr-box",
+    "text": "jit.anim.node editor-world @position -0.3 -0.3 0.3",
+    "var_name": "vrbox_6",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.32,
+     0.74,
+     0.69
+    ],
+    "patcher_position": [
+     109,
+     432,
+     269,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_4": {
+    "max_class": "vr-box",
+    "text": "jit.gl.text editor-world @mode 3d @color 0 0 0 1 @layer -1",
+    "var_name": "vrbox_4",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.97,
+     0.86,
+     0.18
+    ],
+    "patcher_position": [
+     144,
+     463,
+     320,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_2": {
+    "max_class": "vr-box",
+    "text": "jit.anim.node editor-world @scale 0.1",
+    "var_name": "vrbox_2",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.2,
+     0.47,
+     0.59
+    ],
+    "patcher_position": [
+     20,
+     319,
+     208,
+     22
+    ]
+   }
+  },
+  {
+   "vrbox_1": {
+    "max_class": "vr-box",
+    "text": "patcherargs",
+    "var_name": "vrbox_1",
+    "numinlets": 1,
+    "numoutlets": 2,
+    "vr_position": [
+     0.67,
+     0.12,
+     0.19
+    ],
+    "patcher_position": [
+     228,
+     73,
+     74,
+     22
+    ]
+   }
+  }
+ ]
+}

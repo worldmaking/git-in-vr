@@ -1,0 +1,16 @@
+{
+	"project_name" : "project_1",
+	"commit_hash" : "",
+	"UTC" : "",
+	"objects" : 	{
+		"vrbox_10" : 		{
+			"max_class" : "vr-box",
+			"text" : "vrbox_10",
+			"var_name" : "vrbox_10",
+			"vr_position" : [ 0.8167, 0.485, 0.1719 ],
+			"patcher_position" : [ 20, 250 ]
+		}
+
+	}
+
+}
