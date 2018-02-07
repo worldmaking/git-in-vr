@@ -7,3 +7,6 @@
 
 #this is a folder used by the repo miner crystalgazer, which requests that it be gitignored
 .cg
+
+#for now ignore the history.txt since the index.js file isn’t committing it in the right #order (see line~327)
+*/history.txt
