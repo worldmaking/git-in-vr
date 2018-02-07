@@ -26,14 +26,6 @@
 			"vr_position" : [ 0.3369, 0.7458, 0.9714 ],
 			"patcher_position" : [ 20, 50 ]
 		}
-,
-		"vrbox_3" : 		{
-			"max_class" : "vr-box",
-			"text" : "vrbox_3",
-			"var_name" : "vrbox_3",
-			"vr_position" : [ 0.2394, 0.2902, 0.1244 ],
-			"patcher_position" : [ 20, 75 ]
-		}
 
 	}
 
