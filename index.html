@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  ...
+  <script src="node_modules/build/ea-timeline.min.js "></script> 
+  ...
+</head>
+<body>
+    ...
+    <div id="ea-timeline"></div>
+    ...
+   <script>
+   var data = [
+    {
+      key: 'Process 1',
+      values: [
+        {
+          startTime: moment().subtract(4, 'hours'),
+          endTime: moment().subtract(3, 'hours')
+        }
+      ]
+    }
+  ];
+  var timeline = ea.timeline({elementSelector: '#ea-timeline', data: data});
+   </script> 
